@@ -26,21 +26,6 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-# Connect with me  
-<a href="https://www.linkedin.com/in/tarik-doganay/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/GoodGuyForReal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/TarikDoganay" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
-  
-<a href="https://goodguyforreal.github.io/Tarik-Doganay/" target="_blank">Personal Website</a>
-
-<br/>  
-
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=GoodGuyForReal&show_icons=true&count_private=true&hide_border=true" align="left" />  
