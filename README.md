@@ -8,7 +8,7 @@
 ### <div align="center">Hi!. I am a Frontend Developer and also UI designer</div>  
   
 
-<div align="left">I'm a Frontend Developer from Poland. I’m currently working on REACT and FIREBASE projects. I also enjoy building side projects in my free time.</div>  
+<div align="left">I'm a Frontend Developer from Poland. I’m currently working on NEXT, FIREBASE, SUPABASE projects. I also enjoy building side projects in my free time.</div>  
   
 
 <br/>  
