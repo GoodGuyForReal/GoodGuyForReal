@@ -33,7 +33,3 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=GoodGuyForReal&show_icons=true&count_private=true&hide_border=true" align="left" />  
