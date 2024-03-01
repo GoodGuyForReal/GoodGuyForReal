@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">Hi!. I am a Frontend Developer and also UI designer</div>  
+### <div align="center">Hi!. I am a Full Stack Developer and also UI designer</div>  
   
 
 <div align="center">I'm a Full Stack Developer from Poland. I enjoy building side projects in my free time.</div>  
